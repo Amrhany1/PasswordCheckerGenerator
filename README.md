@@ -1,5 +1,5 @@
 Password Strength Checker
-This project helps me to understand string manipulation and security logic in python. 
+This project helps me to understand string manipulation and security logic in Python. 
 
     Goal: Create a script that evaluates a password based on length, character variety (uppercase, lowercase, numbers, symbols), and entropy.
     Key Libraries: re (regular expressions), math, secrets (for secure generation).
